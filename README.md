@@ -1,4 +1,4 @@
-# Grupo8Sexshop
+# Grupo8AccesoriosDeportivos
 Proyecto Ciclo 3
 
 
